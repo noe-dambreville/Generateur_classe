@@ -1,2 +1,0 @@
-# Generateur_classe
-

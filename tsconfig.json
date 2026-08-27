@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "lib": ["dom", "esnext"],
+    "module": "esnext",
+    "target": "es6",
+    "moduleResolution": "node",
+    "strict": true,
+    "noImplicitAny": true,
+    "baseUrl": ".",
+    "outDir": "dist/renderer"
+  },
+  "include": ["src/pages/**/*"]
+}
