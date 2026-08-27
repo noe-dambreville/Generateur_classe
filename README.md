@@ -1,7 +1,8 @@
 # Granyte
 
 > Application permettant de générer des classes POO
-
+> 
+![Capture d'écran de Granyte](img/capture_ecran.png)
 ## Installation
 
 1. Téléchargez la dernière version depuis la page [Releases](https://github.com/noe-dambreville/Generateur_classe/releases/latest)
